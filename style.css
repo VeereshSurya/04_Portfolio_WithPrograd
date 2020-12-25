@@ -224,6 +224,8 @@ progress[value]:::-webkit-progress-bar {
 }
 
 .input {
+  padding: 3px 8px;
+  outline: none;
   line-height: 2em;
   width: 350px;
   border-radius: 3px;
